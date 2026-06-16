@@ -1,4 +1,4 @@
-# ANDA Day 1: Spike Train Correlations
+# ANDA Day 3: Dimensionality Reduction
 
 ## Staff
 
